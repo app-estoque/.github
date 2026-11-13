@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/capa.png" alt="App Estoque: estoque por lote e validade para cozinhas profissionais" width="100%" />
+  <img src="assets/capa.png" alt="Validoo: estoque por lote e validade para cozinhas profissionais" width="100%" />
 </p>
 
-## App Estoque
+## Validoo
 
-O App Estoque controla o estoque de alimentos por lote e validade. Foi pensado para restaurantes, cozinhas industriais, refeitórios e lanchonetes.
+O Validoo controla o estoque de alimentos por lote e validade. Foi pensado para restaurantes, cozinhas industriais, refeitórios e lanchonetes.
 
-Na maioria dessas cozinhas, o estoque ainda fica numa planilha ou no papel. Ninguém sabe ao certo qual lote vence primeiro, o desperdício não é medido e a contagem leva horas. O App Estoque mostra o que precisa ser usado antes de vencer, indica qual lote deve sair primeiro e mostra quanto foi perdido em reais.
+Na maioria dessas cozinhas, o estoque ainda fica numa planilha ou no papel. Ninguém sabe ao certo qual lote vence primeiro, o desperdício não é medido e a contagem leva horas. O Validoo mostra o que precisa ser usado antes de vencer, indica qual lote deve sair primeiro e mostra quanto foi perdido em reais.
 
 Ele roda no navegador do celular e do computador e pode ser instalado na tela inicial, sem passar pela loja de aplicativos.
 
@@ -48,8 +48,8 @@ O projeto passou por testes de invasão ao fim de cada etapa e por um teste comp
 
 ### Situação atual
 
-O App Estoque está em piloto. O código-fonte é privado, e as imagens desta página mostram telas reais com dados fictícios.
+O Validoo está em piloto. O código-fonte é privado, e as imagens desta página mostram telas reais com dados fictícios.
 
 Para conhecer o produto ou pedir uma demonstração, escreva para o e-mail desta organização, que aparece no topo da página.
 
-<sub>© 2026 App Estoque. Todos os direitos reservados.</sub>
+<sub>© 2026 Validoo. Todos os direitos reservados.</sub>

@@ -1,7 +1,7 @@
 # Política de segurança
 
 A segurança dos dados dos nossos clientes vem antes de qualquer funcionalidade. Agradecemos a quem
-nos ajuda a manter o App Estoque seguro.
+nos ajuda a manter o Validoo seguro.
 
 ## Como relatar uma vulnerabilidade
 
